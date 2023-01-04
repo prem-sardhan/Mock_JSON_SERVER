@@ -1,28 +1,12 @@
 {
-  "data": [
+  "users": [
     {
-      "pop": "12000",
-      "city": "Karachi",
-      "country": "Pakistan",
-      "id": 2
-    },
-    {
-      "pop": "20000000",
-      "city": "Mumbai",
-      "country": "India",
-      "id": 3
-    },
-    {
-      "pop": "22200",
-      "city": "Kolkata",
-      "country": "India",
-      "id": 4
-    },
-    {
-      "pop": "1111",
-      "city": "Bokaro",
-      "country": "Pakistan",
-      "id": 5
+      "name": "name.value",
+      "age": "age.value",
+      "place": "place.value",
+      "batch_name": "batch_name.value",
+      "profession": "profession.value"
     }
+    
   ]
 }
