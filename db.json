@@ -1,32 +1,28 @@
 {
-  "users": [
+  "data": [
     {
-      "id": 1,
-      "name": "Chandra",
-      "age": 29,
-      "place": "Visakhapatnam",
-      "batch": "WEB-21",
-      "profession": "Full stack Developer"
+      "pop": "12000",
+      "city": "Karachi",
+      "country": "Pakistan",
+      "id": 2
     },
     {
-      "name": "PREM KUMAR MAHTO",
-      "age": "12",
-      "place": "bokaro",
-      "username": "PremSardhan",
-      "password": "q",
-      "batch": "WEB-15",
-      "profession": "Instructor",
+      "pop": "20000000",
+      "city": "Mumbai",
+      "country": "India",
       "id": 3
     },
     {
-      "name": "divyanshu",
-      "age": "25",
-      "place": "lucknow",
-      "username": "babu",
-      "password": "123",
-      "batch": "WEB-18",
-      "profession": "Frontend Developer",
+      "pop": "22200",
+      "city": "Kolkata",
+      "country": "India",
       "id": 4
+    },
+    {
+      "pop": "1111",
+      "city": "Bokaro",
+      "country": "Pakistan",
+      "id": 5
     }
   ]
 }
