@@ -1,26 +1,32 @@
 {
-    "books": [
-      {
-        "id": 1,
-        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-        "book_name": "Harry Potter and the Philosopher's Stone",
-        "author": "J. K. Rowling",
-        "genre": "fiction",
-        "edition": "2021",
-        "publisher": "Bloomsbury",
-        "cost": 1299,
-        "borrowed": false
-      },
-      {
-        "id": 2,
-        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-        "book_name": "Harry Potter and the Philosopher's Stone",
-        "author": "J. K. Rowling",
-        "genre": "fiction",
-        "edition": "2021",
-        "publisher": "Bloomsbury",
-        "cost": 1299,
-        "borrowed": false
-}
-]
+  "users": [
+    {
+      "id": 1,
+      "name": "Chandra",
+      "age": 29,
+      "place": "Visakhapatnam",
+      "batch": "WEB-21",
+      "profession": "Full stack Developer"
+    },
+    {
+      "name": "PREM KUMAR MAHTO",
+      "age": "12",
+      "place": "bokaro",
+      "username": "PremSardhan",
+      "password": "q",
+      "batch": "WEB-15",
+      "profession": "Instructor",
+      "id": 3
+    },
+    {
+      "name": "divyanshu",
+      "age": "25",
+      "place": "lucknow",
+      "username": "babu",
+      "password": "123",
+      "batch": "WEB-18",
+      "profession": "Frontend Developer",
+      "id": 4
+    }
+  ]
 }
