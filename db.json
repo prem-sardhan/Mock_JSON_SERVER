@@ -22,5 +22,14 @@
         "cost": 1299,
         "borrowed": false
       }
-    ]
+    ],
+    "Movies":[{
+        
+        "id": 2,
+        "Movie_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "Movie_name": "Harry Potter and the Philosopher's Stone"
+
+    }]
+
+
   }
