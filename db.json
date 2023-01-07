@@ -33,11 +33,11 @@
   "users": [
     {
       "id": 1,
-      "name": "Prem tata",
-      "age": 20,
-			"place":"Blore",
-      "Batch_name": "web-15",
-      "profession": "student"
+      "email": "Prem@gmail.com",
+      "username": "prem",
+			"password":"prem",
+      "confirm password": "prem"
+    
       
     }
   ]
