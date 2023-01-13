@@ -57,7 +57,9 @@
       "gender": "Female"
     }
   ],
-  "furniture": [] 
+  "furniture": [] ,
+  "furniture_wishlisted":[]
+ 
   
   
 }
