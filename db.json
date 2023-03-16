@@ -43,12 +43,7 @@
     }
   ],
   "users":[
-    {
-      "username":"prem",
-      "email":"p@gmail.com",
-      "password":"prem",
-      "confirm_password":"prem"
-    }
+    
   ]
   
   
