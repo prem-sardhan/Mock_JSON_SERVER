@@ -58,7 +58,18 @@
     }
   ],
   "furniture": [] ,
-  "furniture_wishlisted":[]
+  "furniture_wishlisted":[],
+  "usersprem": [
+    {
+      "id": 1,
+      "email": "Prem@gmail.com",
+      "username": "prem",
+			"password":"prem",
+      "confirm password": "premchecking"
+    
+      
+    }
+  ]
  
   
   
